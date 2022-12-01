@@ -2,7 +2,7 @@
 
 import createWaflashModule from './waflash.js';
 
-const WAFLASH_BASE_URL = "https://vidkidz.github.io/wasm/";
+const WAFLASH_BASE_URL = "https://spacethaddeus.github.io/wasm/";
 
 const createWaflash = (src) => {
     if (!src) src = '';
